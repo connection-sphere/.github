@@ -1,13 +1,13 @@
-## 🚀 MassProspecting
+## ConnectionSphere
 
 **( Just an AI-Driven, Multi-Channel Outreach System )** 🤖✨
 
-### MassProspecting Users
+### ConnectionSphere Users
 
-- Find **Users Documentation** [here](https://docs.massprospecting.com).
+- Find **Users Documentation** [here](https://docs.connectionsphere.com).
 
-### MassProspecting Employees
+### ConnectionSphere Employees
 
-1. signup to [GitHub](https://github.com/) and request access to our [MassProspecting Hub](https://github.com/massprospecting/hub) repository.
+1. signup to [GitHub](https://github.com/) and request access to our [ConnectionSphere Hub](https://github.com/massprospecting/hub) repository.
 
 2. request access to our [MassProspecting FileSystem](https://drive.google.com/drive/folders/1zJQDeTdebTAGS9hDSkrMbWzbLgSEMEGZ?usp=sharing)
