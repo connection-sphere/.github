@@ -12,5 +12,5 @@ Request access to our [ConnectionSphere FileSystem](https://drive.google.com/dri
 
 ### ConnectionSphere Developers
 
-Signup to [GitHub](https://github.com/) and request access to our **Developers Documentation** [here](https://github.com/massprospecting/hub) repository.
+Signup to [GitHub](https://github.com/) and request access to our **Developers Documentation** [here](https://github.com/massprospecting/hub).
 
