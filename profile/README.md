@@ -4,10 +4,13 @@
 
 ### ConnectionSphere Users
 
-- Find **Users Documentation** [here](https://docs.connectionsphere.com).
+Find **Users Documentation** [here](https://docs.connectionsphere.com).
 
 ### ConnectionSphere Employees
 
-1. signup to [GitHub](https://github.com/) and request access to our [ConnectionSphere Hub](https://github.com/massprospecting/hub) repository.
+Request access to our [ConnectionSphere FileSystem](https://drive.google.com/drive/folders/1zJQDeTdebTAGS9hDSkrMbWzbLgSEMEGZ?usp=sharing)
 
-2. request access to our [MassProspecting FileSystem](https://drive.google.com/drive/folders/1zJQDeTdebTAGS9hDSkrMbWzbLgSEMEGZ?usp=sharing)
+### ConnectionSphere Developers
+
+Signup to [GitHub](https://github.com/) and request access to our **Developers Documentation** [here](https://github.com/massprospecting/hub) repository.
+
