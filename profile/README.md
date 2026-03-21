@@ -12,7 +12,7 @@ The platform operates on a credit-based model, where credits are consumed per **
 
 **ConnectionSphere** is built for founders, sales teams, and agencies seeking consistent, context-aware lead flow while preserving account safety and reducing operational overhead.
 
-### Developers Documentation
+## Developers Documentation
 
 - [ConnectionSphere Architecture](../docs/connectionsphere-architecture.md)
 - [Installation on Local Environment](../docs/installation-on-local-environment.md)
