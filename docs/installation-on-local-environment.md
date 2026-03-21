@@ -40,12 +40,6 @@ saas migrations --node=localslave
 After the script finishes, run:
 
 ```bash
-saas list
-```
-
-Optional checks:
-
-```bash
 systemctl status postgresql
 ls ~/code1/master/.sandbox
 ```

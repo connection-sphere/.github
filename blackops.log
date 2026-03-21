@@ -1,0 +1,17 @@
+2026-03-21 14:23:00: Pattern: [0;34;49m(all)[0m
+2026-03-21 14:23:00: Bring Contabo instances (page 1)... 2026-03-21 14:23:00: [0;31;49mSSL_connect returned=1 errno=0 peeraddr=104.20.10.66:443 state=error: certificate verify failed (unable to get local issuer certificate)
+/__enclose_io_memfs__/lib/ruby/3.1.0/net/protocol.rb:46:in `connect_nonblock'
+/__enclose_io_memfs__/lib/ruby/3.1.0/net/protocol.rb:46:in `ssl_socket_connect'
+/__enclose_io_memfs__/lib/ruby/gems/3.1.0/gems/net-http-0.2.2/lib/net/http.rb:1088:in `connect'
+/__enclose_io_memfs__/lib/ruby/gems/3.1.0/gems/net-http-0.2.2/lib/net/http.rb:995:in `do_start'
+/__enclose_io_memfs__/lib/ruby/gems/3.1.0/gems/net-http-0.2.2/lib/net/http.rb:984:in `start'
+/__enclose_io_memfs__/lib/ruby/gems/3.1.0/gems/net-http-0.2.2/lib/net/http.rb:628:in `start'
+/__enclose_io_memfs__/lib/ruby/gems/3.1.0/gems/net-http-0.2.2/lib/net/http.rb:550:in `post_form'
+/__enclose_io_memfs__/lib/ruby/gems/3.1.0/gems/contabo-client-0.1.1/lib/contabo-client.rb:18:in `get_access_token'
+/__enclose_io_memfs__/lib/ruby/gems/3.1.0/gems/contabo-client-0.1.1/lib/contabo-client.rb:143:in `access_token'
+/__enclose_io_memfs__/lib/ruby/gems/3.1.0/gems/contabo-client-0.1.1/lib/contabo-client.rb:77:in `get_instances'
+/__enclose_io_memfs__/local/lib/blackops.rb:340:in `merged'
+/__enclose_io_memfs__/local/cli/list.rb:42:in `<top (required)>'
+/__enclose_io_memfs__/local/cli/saas.rb:29:in `load'
+/__enclose_io_memfs__/local/cli/saas.rb:29:in `<main>'[0m
+
