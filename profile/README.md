@@ -23,6 +23,7 @@ The platform operates on a credit-based model, where credits are consumed per **
 
 ### Getting Started
 
+- Initial (Seed) Setup _(or add seed setup to migrations)_
 - Setting up Servers
 - Setting up Workflows
 - Leasing Profiles
