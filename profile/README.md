@@ -14,10 +14,26 @@ The platform operates on a credit-based model, where credits are consumed per **
 
 ## Developers Documentation
 
+### Installation
+
 - [ConnectionSphere Architecture](../docs/001-connectionsphere-architecture.md)
 - [Installation on Local Environment](../docs/002-installation-on-local-environment.md)
 - [Running on Local Environment](../docs/003-running-on-local-environment.md)
 - [List of Processes](../docs/004-list-of-processes.md)
+
+### Getting Started
+
+- Setting up Servers
+- Setting up Workflows
+- Leasing Profiles
+- Running Jobs
+
+### Advanceed
+
+- Profiles
+- Sources
+- Enrichments
+- Outreaches
 
 ## Other Documentation
 
