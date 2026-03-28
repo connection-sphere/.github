@@ -34,6 +34,7 @@ saas migrations --node=localslave
 2. Installs base dependencies and services on `localmaster`.
 3. Deploys code for `localmaster`, `localslave`, and `localworker`.
 4. Runs database migrations for `localmaster` and `localslave`.
+5. Install [Grimmer](https://github.com/connection-sphere/grimmer), our agent for developers of ConnecionSphere.
 
 ## Quick Validation
 
