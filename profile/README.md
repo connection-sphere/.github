@@ -28,6 +28,11 @@ The platform operates on a credit-based model, where credits are consumed per **
 - [Seed Configuration](../docs/102-seed-configuration.md)
 - [Seed Resources](../docs/103-seed-resources.md)
 
+### Servers 
+
+- Servers Allocation
+
+
 ### Advanceed
 
 - Profiles
