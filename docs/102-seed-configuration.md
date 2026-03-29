@@ -1,6 +1,6 @@
 # Seed Configuration
 
-In this project, the **seed configuration** is the initial catalog of 
+In this project, the **seed configuration** is the initial **catalog** of 
 - **channels**, 
 - **profile types**, 
 - **source types**, 
@@ -143,5 +143,5 @@ cd ~/code1/secret/mass && \
 ruby seed.rb --server_url https://connectionsphere.com --api_key <su api key>
 ```
 
-Edit [secret/mass/seed.rb](secret/mass/seed.rb) when you want to register new configurations.
+Edit the `seed.rb` script when you want to register new configurations.
   
