@@ -75,7 +75,9 @@ saas start --node=master --root
 
 2. Create domain `A` record to point to node's IP.
 
-3. Add your node to the Contabo merging list _(deprecated)_
+3. Add your node to the `slaves` list of the **master node**. _(deprecated)_
+
+Such a list is used to allocate new **subaccounts**.
 
 ```ruby
 # list of slave nodes for resources allocation
@@ -128,7 +130,9 @@ saas start --node=free02 --root
 }
 ```
 
-2. Add your node to the Contabo merging list _(deprecated)_
+2. Add your node to the `workers` list of the **master node**. _(deprecated)_
+
+Such a list is used to assign node to new **profiles**.
 
 ```ruby
 # list of worker nodes for resources allocation
@@ -150,9 +154,7 @@ saas deploy --node=w01e && \
 saas start --node=w01e --root
 ```
 
-## Refresh List of Contabo Nodes _(deprecated)_
-
-Always refresh the array of **slave** and **worker** nodes on the **master** node - The master node will merge such a list with Contabo information (e.g.: auto-renewal).
+## Refresh List of `salve` and `worker` Nodes in the Master _(deprecated)_
 
 ```bash
 export OPSLIB=~/code1/secret/production && \
