@@ -40,3 +40,5 @@ The platform operates on a credit-based model, where credits are consumed per **
 1. **Users:** Find **Users Documentation** [here](https://docs.connectionsphere.com).
 
 2. **Employees:** Request access to our **FileSystem** [here](https://drive.google.com/drive/folders/1zJQDeTdebTAGS9hDSkrMbWzbLgSEMEGZ?usp=sharing).
+
+3. **Official Bug Tracking** is [here](https://github.com/connection-sphere/.github/issues). 
