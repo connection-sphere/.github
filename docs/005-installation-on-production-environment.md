@@ -6,7 +6,7 @@ This guide installs the master, slaves, workers nodes on a distributed mesh of n
 
 - Rent one Contabo VPS 10 for each node you have to install.
 
-## Master
+## Installing Master Node
 
 Only one master node is required, so you likely will perform this task once.
 
@@ -38,7 +38,7 @@ saas migrations --node=master && \
 saas start --node=master --root
 ```
 
-## Salves
+## Scaling Salve Nodes
 
 1. Edit the secret file `BlackOpsFile` to add your master node.
 
@@ -97,7 +97,7 @@ saas migrations --node=free02 && \
 saas start --node=free02 --root
 ```
 
-## Workers
+## Scaling Worker Nodes
 
 1. Edit the secret file `BlackOpsFile` to add your master node.
 
@@ -148,4 +148,15 @@ export OPSLIB=~/code1/secret/production && \
 saas install --node=w01e --root && \
 saas deploy --node=w01e && \
 saas start --node=w01e --root
+```
+
+## Refresh List of Contabo Nodes _(deprecated)_
+
+Always refresh the array of **slave** and **worker** nodes on the **master** node - The master node will merge such a list with Contabo information (e.g.: auto-renewal).
+
+```bash
+export OPSLIB=~/code1/secret/production && \
+saas deploy --node=master && \
+saas stop --node=master  --root && \
+saas start --node=master --root
 ```
