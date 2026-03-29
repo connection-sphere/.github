@@ -20,6 +20,7 @@ The platform operates on a credit-based model, where credits are consumed per **
 - [Installation on Local Environment](../docs/002-installation-on-local-environment.md)
 - [Running on Local Environment](../docs/003-running-on-local-environment.md)
 - [List of Processes](../docs/004-list-of-processes.md)
+- [Installation on Production Environment](../docs/005-installation-on-production-environment.md)
 
 ### Getting Started
 
