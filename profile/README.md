@@ -24,11 +24,9 @@ The platform operates on a credit-based model, where credits are consumed per **
 
 ### Getting Started
 
-- Initial (Seed) Setup _(or add seed setup to migrations)_
-- Setting up Servers
-- Setting up Workflows
-- Leasing Profiles
-- Running Jobs
+- [Connect to API](../docs/101-connect-to-api.md)
+- [Seed Configuration](../docs/102-connectionsphere-architecture.md)
+- [Seed Resources](../docs/103-seed-resources.md)
 
 ### Advanceed
 
