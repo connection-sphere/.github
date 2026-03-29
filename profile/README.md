@@ -25,7 +25,7 @@ The platform operates on a credit-based model, where credits are consumed per **
 ### Getting Started
 
 - [Connect to API](../docs/101-connect-to-api.md)
-- [Seed Configuration](../docs/102-connectionsphere-architecture.md)
+- [Seed Configuration](../docs/102-seed-configuration.md)
 - [Seed Resources](../docs/103-seed-resources.md)
 
 ### Advanceed
