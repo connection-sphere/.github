@@ -31,7 +31,8 @@ The platform operates on a credit-based model, where credits are consumed per **
 ### Servers 
 
 - Servers Allocation
-
+- Orders Deployment
+- Resources Provisioning
 
 ### Advanceed
 
@@ -39,6 +40,7 @@ The platform operates on a credit-based model, where credits are consumed per **
 - Sources
 - Enrichments
 - Outreaches
+- [Adaptative Sharding](../docs/305-adaptative-sharding.md)
 
 ## Other Documentation
 
