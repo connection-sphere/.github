@@ -22,6 +22,9 @@ The platform operates on a credit-based model, where credits are consumed per **
 - [List of Processes](../docs/004-list-of-processes.md)
 - [Installation on Production Environment](../docs/005-installation-on-production-environment.md)
 - [Running Workers On-Premise](../docs/006-running-workers-on-premise.md)
+- [Storage Nodes](../docs/007-storage-nodes.md)
+- [LLM Nodes](../docs/008-LLM-nodes.md)
+
 
 ### Getting Started
 
